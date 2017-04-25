@@ -5,6 +5,6 @@
  */
 
 $config['test'] = 'its from config';
-$config['customer'] = 'Customer A';
+$config['customer'] = 'Customer B';
 
 
