@@ -2,4 +2,4 @@
 intended as submodule, for awstest
 
 edit to have new commit
-another commit on config
+another
