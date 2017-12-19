@@ -4,3 +4,4 @@ intended as submodule, for awstest
 edit to have new commit
 another
 on master
+2
